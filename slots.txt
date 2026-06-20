@@ -1,0 +1,23 @@
+=== PARKING SLOT STATUS ===
+Slot  | Type      | Rate/hr | Status
+------------------------------------------------
+1     | Normal    | PKR 50  | OCCUPIED
+2     | Normal    | PKR 50  | FREE
+3     | Normal    | PKR 50  | FREE
+4     | Normal    | PKR 50  | FREE
+5     | Normal    | PKR 50  | FREE
+6     | Normal    | PKR 50  | FREE
+7     | Normal    | PKR 50  | FREE
+8     | Normal    | PKR 50  | FREE
+9     | Normal    | PKR 50  | FREE
+10    | Normal    | PKR 50  | FREE
+11    | VIP       | PKR 120 | OCCUPIED
+12    | VIP       | PKR 120 | OCCUPIED
+13    | VIP       | PKR 120 | OCCUPIED
+14    | VIP       | PKR 120 | OCCUPIED
+15    | VIP       | PKR 120 | OCCUPIED
+16    | Reserved  | PKR 180 | OCCUPIED
+17    | Reserved  | PKR 180 | OCCUPIED
+18    | Reserved  | PKR 180 | OCCUPIED
+19    | Reserved  | PKR 180 | OCCUPIED
+20    | Reserved  | PKR 180 | OCCUPIED

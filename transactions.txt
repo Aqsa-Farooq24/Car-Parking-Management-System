@@ -1,0 +1,19 @@
+ENTRY | zohaib               | zb22       | Slot:11   (VIP     ) | 2026-05-18 18:51:12
+ENTRY | ali                  | ali88      | Slot:12   (VIP     ) | 2026-05-18 18:51:56
+ENTRY | aimal                | aimal33    | Slot:13   (VIP     ) | 2026-05-18 18:52:09
+ENTRY | aqsa                 | af33       | Slot:14   (VIP     ) | 2026-05-18 18:52:22
+ENTRY | abdullah             | abdf       | Slot:15   (VIP     ) | 2026-05-18 18:52:39
+EXIT  | abdullah             | abdf       | Slot:15   (VIP     ) | In:2026-05-18 18:52:39 Out:2026-05-18 18:54:20 | PKR 3.37
+ENTRY | eman                 | mano       | Slot:15   (VIP     ) | 2026-05-18 18:54:20
+ENTRY | ubaid                | ubd        | Slot:16   (Reserved) | 2026-05-19 07:22:38
+ENTRY | farooq               | fq         | Slot:17   (Reserved) | 2026-05-19 07:22:51
+ENTRY | arif                 | ari        | Slot:18   (Reserved) | 2026-05-19 07:23:08
+ENTRY | waseem               | wb         | Slot:19   (Reserved) | 2026-05-19 07:23:33
+ENTRY | badami               | bdm        | Slot:20   (Reserved) | 2026-05-19 07:23:45
+EXIT  | zohaib               | zb22       | Slot:11   (VIP     ) | In:2026-05-18 18:51:12 Out:2026-05-19 07:24:27 | PKR 1506.50
+EXIT  | badami               | bdm        | Slot:20   (Reserved) | In:2026-05-19 07:23:45 Out:2026-05-19 07:25:14 | PKR 4.45
+ENTRY | faris                | fr         | Slot:20   (Reserved) | 2026-05-19 07:25:14
+ENTRY | aqsaubaid            | au11       | Slot:1    (Normal  ) | 2026-05-19 09:23:47
+ENTRY | aqsa farooq          | af44       | Slot:11   (VIP     ) | 2026-05-19 09:24:33
+EXIT  | aqsa                 | af33       | Slot:14   (VIP     ) | In:2026-05-18 18:52:22 Out:2026-05-19 09:26:26 | PKR 1748.13
+ENTRY | shahid               | sh11       | Slot:14   (VIP     ) | 2026-05-19 09:26:26

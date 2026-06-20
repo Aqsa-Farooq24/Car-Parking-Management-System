@@ -1,0 +1,27 @@
+==========================================
+  CAR PARKING SYSTEM - DATA BACKUP
+  Timestamp: 2026-05-18 18:57:11
+==========================================
+
+--- ACTIVE VEHICLES (drivers.txt) ---
+zohaib|42201-24445-9|zb22|11|1|2026-05-18 18:51:12
+ali|42201-93393-2|ali88|12|1|2026-05-18 18:51:56
+aimal|42201-2345678-3|aimal33|13|1|2026-05-18 18:52:09
+aqsa|42201-765432-2|af33|14|1|2026-05-18 18:52:22
+eman|42201-23456-2|mano|15|1|2026-05-18 18:54:20
+
+--- BILLING RECORDS (billing.txt) ---
+abdullah|42201-456789-9|abdf|15|VIP|2026-05-18 18:52:39|2026-05-18 18:54:20|3.37
+
+--- TRANSACTION LOG (transactions.txt) ---
+ENTRY | zohaib               | zb22       | Slot:11   (VIP     ) | 2026-05-18 18:51:12
+ENTRY | ali                  | ali88      | Slot:12   (VIP     ) | 2026-05-18 18:51:56
+ENTRY | aimal                | aimal33    | Slot:13   (VIP     ) | 2026-05-18 18:52:09
+ENTRY | aqsa                 | af33       | Slot:14   (VIP     ) | 2026-05-18 18:52:22
+ENTRY | abdullah             | abdf       | Slot:15   (VIP     ) | 2026-05-18 18:52:39
+EXIT  | abdullah             | abdf       | Slot:15   (VIP     ) | In:2026-05-18 18:52:39 Out:2026-05-18 18:54:20 | PKR 3.37
+ENTRY | eman                 | mano       | Slot:15   (VIP     ) | 2026-05-18 18:54:20
+
+==========================================
+  END OF BACKUP
+==========================================
